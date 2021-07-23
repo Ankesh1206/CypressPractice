@@ -1,2 +1,4 @@
 
-{"chromeWebSecurity": false}
+{"chromeWebSecurity": false,
+    "failOnStatusCode": false}
+
